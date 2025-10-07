@@ -168,8 +168,9 @@ Primero en github en la seccion de issues se creo uno nuevo con los doatos reuer
 
 - issues #1 https://github.com/ArteMisa82/EVALUACION_1/issues/1 
 
--
+- https://github.com/ArteMisa82/EVALUACION_1/pull/2 
 
+![alt text](image-3.png) ![alt text](image-4.png)
 
 ---
 
