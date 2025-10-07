@@ -1,4 +1,4 @@
-# Universidad [Nombre de la Universidad]  
+# Universidad Univerdidad Tecnica de Ambato
 ## Facultad de [Nombre de la Facultad]  
 ### Carrera de Ingeniería en Software  
 
