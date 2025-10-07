@@ -1,10 +1,10 @@
 # Universidad Univerdidad Tecnica de Ambato
-## Facultad de [Nombre de la Facultad]  
+## Facultad de Ingenieria en Sistemas, Electonica e indutrial  
 ### Carrera de Ingeniería en Software  
 
 **Asignatura:** Manejo y Configuración de Software  
-**Nombre del Estudiante:** ___________________________  
-**Fecha:** ___________________  
+**Nombre del Estudiante:** Veronica Jaque 
+**Fecha:** 07/10/2025 
 
 ---
 
