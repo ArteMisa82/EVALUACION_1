@@ -1,10 +1,10 @@
-# Universidad [Nombre de la Universidad]  
-## Facultad de [Nombre de la Facultad]  
+# Universidad Univerdidad Tecnica de Ambato
+## Facultad de Ingenieria en Sistemas, Electonica e indutrial  
 ### Carrera de Ingeniería en Software  
 
 **Asignatura:** Manejo y Configuración de Software  
-**Nombre del Estudiante:** ___________________________  
-**Fecha:** ___________________  
+**Nombre del Estudiante:** Veronica Jaque 
+**Fecha:** 07/10/2025 
 
 ---
 
@@ -107,8 +107,24 @@ el archivo .gitignore evita que Git rastree ciertos archivos ocarpetas. Esto sig
 - El flujo debe respetar la estructura de Git Flow con las ramas `develop` y `main`.
 
 **📝 Respuesta:**
+- Comandos utilizados:
+  git flow init 
+  git flow hotfix start ingresar-encabezado
+  git add README.md
+  git commit -m "Completar encabezado con datos del estudiante"
+  git flow hotfix finish 'ingresar-encabezado'
 
-<!-- Escribe aquí tu respuesta completa a la Pregunta 3 -->
+- Descripcion del proceso
+  Se inicializo git flow y se crearon las ramas por defecto despues se creo el hotfix con el nombre dado y se realizaron los cambios y se guardaron y finalmente se cierra el hotfix.
+
+- Reflexión
+  Organización clara: separa trabajo en ramas con roles lo que reduce errores.
+
+  Paralelismo y control: varios desarrolladores pueden trabajar en features o hotfixes sin afectar main ni develop hasta estar listos.
+
+  Historial más limpio: merges estructurados y tags de releases ayudan a la trazabilidad.
+
+![alt text](image-2.png)
 
 ---
 
