@@ -38,7 +38,23 @@
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu respuesta a la Pregunta 1 -->
+- git clone: con este comando se descarga una copia del repositorio remoto al equipo local, creando un nuevo directorio con el historial y configurando origin apuntando al remoto que se clono.
+
+- fork : es una acción para crear una copia independiente de un repositorio en nuestra cuenta de GitHub y nos permite trabajar de forma aislada sobre el proyecto original.
+
+- git pull: es un comando que fusiona los cambios del repositorio remoto a la rama local actual.
+
+------Practica ------
+ - ¿Cómo se realizó el fork?
+    El fork se realizo dando click en la opcion de GitHub donde se abrio la ventana para guarda en el repositorio.
+
+- ¿Cómo se realizó el clone del fork?
+    Ya en el nuevo repositorio con el fork se copia el link del repositorio y se copia en el git con el comendo git clone.
+
+ - ¿Cómo se verificó que se estaba trabajando sobre el fork y no sobre el repositorio original?
+    Se verifico con el comando git remote -v y ver ue esta en nuestro repositorio. 
+  
+![alt text](image.png)
 
 ---
 
@@ -60,7 +76,9 @@
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu explicación y evidencia para la Pregunta 2 -->
+el archivo .gitignore evita que Git rastree ciertos archivos ocarpetas. Esto significa que archivos coincidentes con log, temp, md y txt no serán añadidos ni comiteados por error.
+
+![alt text](image-1.png)
 
 ---
 
@@ -122,7 +140,20 @@
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu respuesta completa a la Pregunta 4 -->
+Parte Teórica:
+- Issue en GitHub: un registro de un problema, tarea, sugerencia o solicitud de mejora dentro del repositorio. Permite discusión, asignación y etiquetado.
+
+- Pull Request (PR): propuesta de cambios desde una rama (o fork) hacia otra rama (por ejemplo, develop -> main o fork:develop -> original:main). Sirve para revisar, comentar, ejecutar CI y finalmente fusionar los cambios.
+
+- Diferencia y relación: un issue describe qué hay que hacer o qué problema existe; un PR propone cómo se resuelve (código/archivos). Los PR pueden cerrar issues automáticamente si en la descripción ponen Fixes #<issue_number>.
+
+Practica: 
+Primero en github en la seccion de issues se creo uno nuevo con los doatos reueridos en git se trabajo en develop donde se hizo los cambios se se añaden, se guardan y se suben los cambios en develop y de ahi se uno con main 
+
+- issues #1 https://github.com/ArteMisa82/EVALUACION_1/issues/1 
+
+-
+
 
 ---
 
